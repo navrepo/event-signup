@@ -19,8 +19,6 @@ HTML Requirements
  Add at least 2 images related to your event theme
 
 
-
-
 CSS Requirements
  Use external CSS stylesheet only (no inline or internal CSS)
  Style the form with consistent typography and spacing
@@ -41,10 +39,6 @@ Event title and description
 Date, time, and location details
 Event highlights or features (using a list)
 At least one event-related image
-
-
-
-
 
 Sign-Up Form
 Your form must include these input types:
